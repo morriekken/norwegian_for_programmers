@@ -1,4 +1,5 @@
-# Basic sentence structure
+# Basic sentence
+## Notation
 ```
 <setning> ::= <subjekt> <verbal> <objekt> | <subjekt> <verbal> | <subjekt> <verbal> <predikativ>
 
@@ -22,4 +23,4 @@
 
 <preposisjon> ::= "i" | "på" | "under" | "ved" | ...
 ```
-# Examples
+## Examples
