@@ -1,25 +1,25 @@
 # Basic sentence structure
 ```
-<sentence> ::= <subject> <verb> <object> | <subject> <verb> | <subject> <verb> <complement>
+<setning> ::= <subjekt> <verbal> <objekt> | <subjekt> <verbal> | <subjekt> <verbal> <predikativ>
 
-<subject> ::= <pronoun> | <noun phrase>
+<subjekt> ::= <pronomen> | <substantivfrase>
 
-<pronoun> ::= "jeg" | "du" | "han" | "hun" | "vi" | "dere" | "de"
+<pronomen> ::= "jeg" | "du" | "han" | "hun" | "vi" | "dere" | "de"
 
-<noun phrase> ::= <article> <noun> | <noun> | <adjective> <noun phrase>
+<substantivfrase> ::= <artikkel> <substantiv> | <substantiv> | <adjektiv> <substantivfrase>
 
-<article> ::= "en" | "ei" | "et"
+<artikkel> ::= "en" | "ei" | "et"
 
-<noun> ::= "mann" | "kvinne" | "hund" | "bok" | ...
+<substantiv> ::= "mann" | "kvinne" | "hund" | "bok" | ...
 
-<adjective> ::= "stor" | "liten" | "vakker" | ...
+<adjektiv> ::= "stor" | "liten" | "vakker" | ...
 
-<verb> ::= "ser" | "spiser" | "løper" | "leser" | ...
+<verbal> ::= "ser" | "spiser" | "løper" | "leser" | ...
 
-<object> ::= <article> <noun> | <noun phrase>
+<objekt> ::= <artikkel> <substantiv> | <substantivfrase>
 
-<complement> ::= <preposition> <noun phrase>
+<predikativ> ::= <preposisjon> <substantivfrase>
 
-<preposition> ::= "i" | "på" | "under" | "ved" | ...
+<preposisjon> ::= "i" | "på" | "under" | "ved" | ...
 ```
 # Examples
