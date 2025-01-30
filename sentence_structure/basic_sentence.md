@@ -1,6 +1,4 @@
-# Sentence structure
-
-## Basic sentence structure
+# Basic sentence structure
 ```
 <sentence> ::= <subject> <verb> <object> | <subject> <verb> | <subject> <verb> <complement>
 
@@ -24,3 +22,4 @@
 
 <preposition> ::= "i" | "på" | "under" | "ved" | ...
 ```
+# Examples
