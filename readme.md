@@ -15,3 +15,6 @@ Formal grammar for Norwegian using a structure similar to Backus-Naur Form (BNF)
 
 ## Sentences
 - [Basic sentence](sentence_structure/basic_sentence.md)
+
+## Other
+- [Common expressions](expressions/common_expressions.md)
