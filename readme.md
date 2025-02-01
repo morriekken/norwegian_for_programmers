@@ -13,6 +13,9 @@ Formal grammar for Norwegian using a structure similar to Backus-Naur Form (BNF)
 ## Adjectives
 - [Regular adjectives](adjecties/regular_adjectives)
 
+## Substantives
+- [Neutral Substantives](substantives/neutral_substantives.md)
+
 ## Sentences
 - [Basic sentence](sentence_structure/basic_sentence.md)
 
