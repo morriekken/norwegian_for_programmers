@@ -8,8 +8,8 @@ Formal grammar for Norwegian using a structure similar to Backus-Naur Form (BNF)
 ## Verbs
 - [Regular verbs - v1](verbs/regular_verbs_v1.md)
 - [Regular verbs - v2](verbs/regular_verbs_v2.md)
+- [Important verbs](verbs/important_verbs.md)
 - [Irregular verbs](verbs/irregular_verbs.md)
-
 ## Adjectives
 - [Regular adjectives](adjecties/regular_adjectives)
 
