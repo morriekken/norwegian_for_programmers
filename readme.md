@@ -25,6 +25,11 @@ Formal grammar for Norwegian using a structure similar to Backus-Naur Form (BNF)
 ## Sentences
 - [Basic sentence](sentence_structure/basic_sentence.md)
 
-## Other
+## Expressions
 - [Common expressions](expressions/common_expressions.md)
 - [How can I say that?](expressions/how_can_i_say_that.md)
+
+## Usefull links
+- [Parser](https://clarino.uib.no/iness-prod/parse)
+- [Norwegian Dictionary](https://ordbokene.no/)
+- [English<->Norwegian dictionary](https://dictionary.cambridge.org/no/ordbok/)
