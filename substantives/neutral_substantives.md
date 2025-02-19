@@ -1,108 +1,76 @@
 # Neutral substantives (Substantiv i neutralform)
 
-| Ubestemt         | Bestemt            | Engelsk            |
-|------------------|--------------------|--------------------|
-| et arbeid       | arbeidet            | work              |
-| et ark          | arket               | sheet, paper      |
-| et arrangement  | arrangementet       | event, arrangement |
-| et asylmottak   | asylmottaket        | asylum center     |
-| et avisbud      | avisbudet           | newspaper courier |
-| et bad          | badet               | bath              |
-| et badekar      | badekaret           | bathtub           |
-| et barn         | barnet              | child             |
-| et belte        | beltet              | belt              |
-| et bibliotek    | biblioteket         | library           |
-| et bilde        | bildet              | picture, image    |
-| et bord         | bordet              | table             |
-| et brev         | brevet              | letter            |
-| et brød         | brødet              | bread             |
-| et dyr          | dyret               | animal            |
-| et egg          | egget               | egg               |
-| et eple         | eplet               | apple             |
-| et fag          | faget               | subject, field    |
-| et fjell        | fjellet             | mountain          |
-| et flagg        | flagget             | flag              |
-| et fly          | flyet               | airplane          |
-| et folk         | folket              | people, folk      |
-| et forslag      | forslaget           | suggestion, proposal |
-| et fortau       | fortauet            | sidewalk, pavement |
-| et fotografi    | fotografiet         | photograph        |
-| et frimerke     | frimerket           | stamp             |
-| et friminutt    | friminuttet         | recess, break     |
-| et glass        | glasset             | glass             |
-| et gulv         | gulvet              | floor             |
-| et hjem         | hjemmet             | home              |
-| et hjerte       | hjertet             | heart             |
-| et hode         | hodet               | head              |
-| et hotell       | hotellet            | hotel             |
-| et humør        | humøret             | mood              |
-| et hus          | huset               | house             |
-| et hår          | håret               | hair              |
-| et instrument   | instrumentet        | instrument        |
-| et kjøkken      | kjøkkenet           | kitchen           |
-| et kjøpesenter  | kjøpesenteret       | shopping center   |
-| et kjøtt        | kjøttet             | meat              |
-| et klima        | klimaet             | climate           |
-| et kne          | kneet               | knee              |
-| et kontor       | kontoret            | office            |
-| et kor          | koret               | choir             |
-| et kort         | kortet              | card              |
-| et kryss        | krysset             | intersection, cross |
-| et kurs         | kurset              | course, class     |
-| et land         | landet              | country, land     |
-| et liv          | livet               | life              |
-| et loft         | loftet              | attic, loft       |
-| et loppemarked  | loppemarkedet       | flea market       |
-| et lys          | lyset               | light             |
-| et mas          | maset               | hassle, fuss      |
-| et menneske     | mennesket           | human, person     |
-| et miljø        | miljøet             | environment       |
-| et minutt       | minuttet            | minute            |
-| et museum       | museet              | museum            |
-| et musikkanlegg | musikkanlegget      | sound system      |
-| et møte         | møtet               | meeting           |
-| et navn         | navnet              | name              |
-| et nivå         | nivået              | level             |
-| et nummer       | nummeret            | number            |
-| et ord          | ordet               | word              |
-| et papir        | papiret             | paper             |
-| et problem      | problemet           | problem           |
-| et program      | programmet          | program, schedule |
-| et regn         | regnet              | rain              |
-| et rom          | rommet              | room              |
-| et rundstykke   | rundstykket         | bread roll        |
-| et senter       | senteret            | center            |
-| et skap         | skapet              | cupboard, closet  |
-| et skilt        | skiltet             | sign              |
-| et skjerf       | skjerfet            | scarf             |
-| et skjørt       | skjørtet            | skirt             |
-| et slips        | slipset             | tie               |
-| et smørbrød     | smørbrødet          | sandwich          |
-| et soverom      | soverommet          | bedroom           |
-| et spill        | spillet             | game              |
-| et språk        | språket             | language          |
-| et spørsmål     | spørsmålet          | question          |
-| et sted         | stedet              | place             |
-| et stress       | stresset            | stress            |
-| et stykke       | stykket             | piece, section    |
-| et svar         | svaret              | answer            |
-| et sykehjem     | sykehjemmet         | nursing home      |
-| et sykehus      | sykehuset           | hospital          |
-| et syltetøy     | syltetøyet          | jam, preserves    |
-| et teater       | teateret            | theater           |
-| et teppe        | teppet              | carpet, rug       |
-| et tilbud       | tilbudet            | offer, deal       |
-| et tog          | toget               | train             |
-| et torg         | torget              | square, marketplace |
-| et tre          | treet               | tree              |
-| et treningsstudio | treningsstudioet   | gym, fitness center |
-| et universitet  | universitetet       | university        |
-| et utland       | utlandet            | abroad, foreign country |
-| et vann         | vannet              | water             |
-| et verksted     | verkstedet          | workshop, repair shop |
-| et vikariat     | vikariatet          | temporary job, substitute |
-| et vindu        | vinduet             | window            |
-| et vær          | været               | weather           |
-| et øye          | øyet                | eye               |
-| et øyeblikk     | øyeblikket          | moment            |
-| et år           | året                | year              |
+| Ubestemt         | Bestemt            | Ubestemt flertall | Bestemt flertall | Engelsk            |
+|------------------|--------------------|-------------------|------------------|--------------------|
+| et arbeid       | arbeidet            | arbeid           | arbeidene        | work              |
+| et ark          | arket               | ark              | arkene           | sheet, paper      |
+| et arrangement  | arrangementet       | arrangement      | arrangementene   | event, arrangement |
+| et asylmottak   | asylmottaket        | asylmottak       | asylmottakene    | asylum center     |
+| et avisbud      | avisbudet           | avisbud          | avisbudene       | newspaper courier |
+| et bad          | badet               | bad             | badene           | bath              |
+| et badekar      | badekaret           | badekar         | badekarene       | bathtub           |
+| et barn         | barnet              | barn            | barna            | child             |
+| et belte        | beltet              | belter          | beltene          | belt              |
+| et bibliotek    | biblioteket         | bibliotek       | bibliotekene     | library           |
+| et bilde        | bildet              | bilder          | bildene          | picture, image    |
+| et bord         | bordet              | bord            | bordene          | table             |
+| et brev         | brevet              | brev            | brevene          | letter            |
+| et brød         | brødet              | brød            | brødene          | bread             |
+| et dyr          | dyret               | dyr             | dyrene           | animal            |
+| et egg          | egget               | egg             | eggene           | egg               |
+| et eple         | eplet               | epler           | eplene           | apple             |
+| et fag          | faget               | fag             | fagene           | subject, field    |
+| et fjell        | fjellet             | fjell           | fjellene         | mountain          |
+| et flagg        | flagget             | flagg           | flaggene         | flag              |
+| et fly          | flyet               | fly             | flyene           | airplane          |
+| et folk         | folket              | folk            | folkene          | people, folk      |
+| et forslag      | forslaget           | forslag         | forslagene       | suggestion, proposal |
+| et fortau       | fortauet            | fortau          | fortauene        | sidewalk, pavement |
+| et fotografi    | fotografiet         | fotografier     | fotografiene     | photograph        |
+| et frimerke     | frimerket           | frimerker       | frimerkene       | stamp             |
+| et friminutt    | friminuttet         | friminutter     | friminuttene     | recess, break     |
+| et glass        | glasset             | glass           | glassene         | glass             |
+| et gulv         | gulvet              | gulv            | gulvene          | floor             |
+| et hjem         | hjemmet             | hjem            | hjemmene         | home              |
+| et hjerte       | hjertet             | hjerter         | hjertene         | heart             |
+| et hode         | hodet               | hoder           | hodene           | head              |
+| et hotell       | hotellet            | hoteller        | hotellene        | hotel             |
+| et humør        | humøret             | humør           | humørene         | mood              |
+| et hus          | huset               | hus             | husene           | house             |
+| et hår          | håret               | hår             | hårene           | hair              |
+| et instrument   | instrumentet        | instrumenter    | instrumentene    | instrument        |
+| et kjøkken      | kjøkkenet           | kjøkken         | kjøkkenene       | kitchen           |
+| et kjøpesenter  | kjøpesenteret       | kjøpesentre     | kjøpesentrene    | shopping center   |
+| et kjøtt        | kjøttet             | kjøtt           | kjøttene         | meat              |
+| et klima        | klimaet             | klima           | klimaene         | climate           |
+| et kne          | kneet               | knær            | knærne           | knee              |
+| et kontor       | kontoret            | kontorer        | kontorene        | office            |
+| et kor          | koret               | kor             | korene           | choir             |
+| et kort         | kortet              | kort            | kortene          | card              |
+| et kryss        | krysset             | kryss           | kryssene         | intersection, cross |
+| et kurs         | kurset              | kurs            | kursene          | course, class     |
+| et land         | landet              | land            | landene          | country, land     |
+| et liv          | livet               | liv             | livene           | life              |
+| et loft         | loftet              | loft            | loftene          | attic, loft       |
+| et loppemarked  | loppemarkedet       | loppemarkeder   | loppemarkedene   | flea market       |
+| et lys          | lyset               | lys             | lysene           | light             |
+| et mas          | maset               | mas             | masene           | hassle, fuss      |
+| et menneske     | mennesket           | mennesker       | menneskene       | human, person     |
+| et miljø        | miljøet             | miljøer         | miljøene         | environment       |
+| et minutt       | minuttet            | minutter        | minuttene        | minute            |
+| et museum       | museet              | museer          | museene          | museum            |
+| et musikkanlegg | musikkanlegget      | musikkanlegg    | musikkanleggene  | sound system      |
+| et møte         | møtet               | møter           | møtene           | meeting           |
+| et navn         | navnet              | navn            | navnene          | name              |
+| et nivå         | nivået              | nivåer          | nivåene          | level             |
+| et nummer       | nummeret            | numre           | numrene          | number            |
+| et ord          | ordet               | ord             | ordene           | word              |
+| et papir        | papiret             | papirer         | papirene         | paper             |
+| et problem      | problemet           | problemer       | problemene       | problem           |
+| et program      | programmet          | programmer      | programmene      | program, schedule |
+| et regn         | regnet              | regn            | regnene          | rain              |
+| et rom          | rommet              | rom             | rommene          | room              |
+| et tog          | toget               | tog             | togene           | train             |
+| et tre          | treet               | trær            | trærne           | tree              |
+| et vindu        | vinduet             | vinduer         | vinduene         | window            |
+| et år           | året                | år              | årene            | year              |
