@@ -11,7 +11,7 @@ Formal grammar for Norwegian using a structure similar to Backus-Naur Form (BNF)
 - [Regular verbs - v2](verbs/regular_verbs_v2.md)
 ### Lists
 - [Important verbs](verbs/important_verbs.md)
-- [Important verbs (short list)](verbs/important_verbs_short_list.md.md)
+- [Important verbs (short list)](verbs/important_verbs_short_list.md)
 - [Reflexive verbs](verbs/reflexive_verbs.md)
   
 ## Adjectives
