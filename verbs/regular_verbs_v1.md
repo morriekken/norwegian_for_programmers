@@ -9,7 +9,7 @@
 
 <preteritum> ::= <stamme> "et"
 
-<perfektum_partisipp> ::= "har" <stamme> "et"
+<perfektum_partisipp> ::= <stamme> "et"
 
 <stamme> ::= "snakk" | "hopp" | "slutt" | "mist" | "arbeid" ...
 ```

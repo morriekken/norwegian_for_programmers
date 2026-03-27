@@ -19,7 +19,7 @@
 
 <objekt> ::= <artikkel> <substantiv> | <substantivfrase>
 
-<predikativ> ::= <preposisjon> <substantivfrase>
+<predikativ> ::= <substantivfrase> | <adjektiv> | <preposisjon> <substantivfrase>
 
 <preposisjon> ::= "i" | "på" | "under" | "ved" | ...
 ```

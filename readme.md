@@ -29,7 +29,7 @@ Formal grammar for Norwegian using a structure similar to Backus-Naur Form (BNF)
 - [Common expressions](expressions/common_expressions.md)
 - [How can I say that?](expressions/how_can_i_say_that.md)
 
-## Usefull links
+## Useful links
 - [Norwegian Grammar Tutor](http://regdili.hf.ntnu.no:8081/studentAce/parse)
 - [Tree Parser](https://clarino.uib.no/iness-prod/parse)
 - [Norwegian Dictionary](https://ordbokene.no/)
