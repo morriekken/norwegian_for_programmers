@@ -9,7 +9,7 @@
 
 <preteritum> ::= <stamme> "te"
 
-<perfektum_partisipp> ::= "har" <stamme> "t"
+<perfektum_partisipp> ::= <stamme> "t"
 
 <stamme> ::= "bruk" | "lik" | "smil" | "kjøp" | "hør" | "spill" | "begynn" | "bestemm"...
 ```

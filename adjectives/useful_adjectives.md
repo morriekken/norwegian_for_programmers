@@ -23,7 +23,7 @@ This table includes adjectives in **masculine/feminine, neuter, and plural** for
 | Norsk (m/f) | Norsk (n) | Norsk (pl) | Engelsk |
 |------------|-----------|------------|---------|
 | rød        | rødt      | røde       | red     |
-| blå        | blått     | blåe       | blue    |
+| blå        | blått     | blå        | blue    |
 | grønn      | grønt     | grønne     | green   |
 | gul        | gult      | gule       | yellow  |
 | hvit       | hvitt     | hvite      | white   |

@@ -14,9 +14,9 @@
 
 <superlativ> ::= <adjektiv_stamme> "est"
 
-<positiv_bestemt> ::= <adjektiv_stamme> "e" "t"
+<positiv_bestemt> ::= <adjektiv_stamme> "e"
 
-<komparativ_bestemt> ::= <adjektiv_stamme> "ere" "t"
+<komparativ_bestemt> ::= <adjektiv_stamme> "ere"
 
 <superlativ_bestemt> ::= <adjektiv_stamme> "este"
 
